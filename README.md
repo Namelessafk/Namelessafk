@@ -9,4 +9,5 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namelessafk&theme=ocean_dark&layout=compact)
   
-  ![Snake animation](https://github.com/Namelessafk)
+  ![Snake animation](https://github.com/Namelessafk/Namelessafk/blob/output/github-contribution-grid-snake.svg)
+

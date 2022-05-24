@@ -1,6 +1,6 @@
 ### Olar! Sou Marcus Thulio 🤙
 
-- 🐱‍👤 I’m currently learning ...
+- 🐱‍👤 I’m currently learning Javascript
 
 
   ![GITHUB STAT](https://github-readme-stats.vercel.app/api?username=Namelessafk&hide=contribs&count_private=true&show_icons=true&theme=ocean_dark&custom_title=Marcus_Thulio_Status🤖)

@@ -1,4 +1,4 @@
-### Olar! Sou Marcus Thulio 🤙
+### Ola! Sou Marcus Thulio 🤙
 
 - 🐱‍👤 I’m currently learning Javascript
 

@@ -1,6 +1,6 @@
 ### Ola! Sou Marcus Thulio 🤙
 
-- 🐱‍👤 I’m currently learning Javascript
+My E-mail: marcusthuliok9@gmail.com
 
 
   ![GITHUB STAT](https://github-readme-stats.vercel.app/api?username=Namelessafk&hide=contribs&count_private=true&show_icons=true&theme=ocean_dark&custom_title=Marcus_Thulio_Status🤖)
